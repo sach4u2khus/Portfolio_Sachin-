@@ -1,4 +1,4 @@
-Copyright (c) 2025 Amine Hamzaoui
+Copyright (c) 2026 Sachin
 
 Permission is granted to any person or organization to use, copy, modify, and
 integrate this software or parts of it in personal or commercial projects,
